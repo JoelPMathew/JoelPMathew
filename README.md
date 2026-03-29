@@ -63,7 +63,7 @@ A project to explore real-time file scanning using ClamAV.
 
 ## 🌐 Connect
 
-- [💼 LinkedIn:](https://www.linkedin.com/in/joel-mathew-23b207315/)
+💼 **LinkedIn:** [joel-mathew-23b207315](https://www.linkedin.com/in/joel-mathew-23b207315/)
 
 ---
 
