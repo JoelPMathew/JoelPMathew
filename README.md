@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Joel P. Mathew
 
 🎓 B.Tech AI & ML @ VIT Chennai  
-🧠 AI Systems Builder | Full-Stack Developer | Embedded Engineer  
-🚀 I build intelligent systems that combine AI, software, and real-world engineering  
+💡 Interested in AI/ML, Embedded Systems, and Full-Stack Development  
+🚀 I enjoy building projects and learning by implementing real-world ideas  
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&lines=AI+Engineer;Multi-Agent+Systems+Builder;Full+Stack+Developer;Embedded+Systems+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&lines=AI+%26+ML+Student;Learning+by+Building;Full+Stack+Developer;Exploring+Embedded+Systems)
 
 ---
 
@@ -16,26 +16,57 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🧠 SQL Copilot — AI-Powered Database Assistant  
+### 🧠 SQL Copilot  
 🔗 https://github.com/JoelPMathew/SQL_Copilot  
 
-> Automates Oracle database customization using LLM-powered agents  
+AI-based assistant to help with Oracle database customization.
 
-#### ⚡ Key Highlights
-- Designed a **multi-agent AI system** for:
-  - Requirement Analysis  
-  - Impact Assessment  
-  - Code Generation  
-- Converts business requirements → structured technical specifications  
-- Generates **SQL / PL-SQL code automatically**  
-- Reduces manual effort in database customization workflows  
-- Integrated with a **web-based dashboard** for end-to-end lifecycle  
+- Breaks down business requirements into technical steps  
+- Performs basic impact analysis for changes  
+- Generates SQL / PL-SQL code using LLMs  
+- Simple web interface for interacting with the system  
 
-#### 🛠️ Tech Stack
-- Backend: Python (Flask)  
-- AI Core: Mistral Medium (LLM)  
-- Frontend: HTML, CSS, JavaScript  
+**Tech:** Python (Flask), Mistral LLM, HTML/CSS/JS  
 
-#### 🧩 Architecture
+---
+
+### 🛡️ ClamWatch  
+🔗 (Add your repo link here)  
+
+A project to explore real-time file scanning using ClamAV.
+
+- Monitors files and scans them for threats  
+- Uses ClamAV for antivirus detection  
+- Includes basic quarantine handling  
+
+**Tech:** Node.js, ClamAV  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoelPMathew&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPMathew&layout=compact)
+
+---
+
+## 🌱 Currently Learning
+
+- Multi-agent AI systems  
+- Backend development with Flask & Django  
+- Embedded systems (Arduino, ESP32, Raspberry Pi)  
+
+---
+
+## 🌐 Connect
+
+- 💼 LinkedIn: (Add your link)  
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=JoelPMathew)
